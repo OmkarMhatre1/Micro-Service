@@ -1,7 +1,0 @@
-server:
-  port: 8085
-
-
-hystrix:
-  dashboard:
-    proxy-stream-allow-list: "*"
